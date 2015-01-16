@@ -75,4 +75,5 @@ def main():
         print '请输入正确的选择序号'
         main()
          
-main()
+if __name__ == "__main__":
+    main()
